@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/elindakuchi/pairprogramming/issues"
   },
-  "homepage": "https://github.com/elindakuchi/pairprogramming#readme"
+  "homepage": "https://github.com/elindakuchi/pairprogramming#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
 }
